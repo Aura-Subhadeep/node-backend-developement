@@ -1,0 +1,287 @@
+[
+    {
+        "id": "1",
+        "title": "Attack on Titan",
+        "description": "Humanity fights for survival against giant humanoid creatures called Titans.",
+        "genre": ["Action", "Drama", "Fantasy"],
+        "seasons": 4,
+        "episodes": 75,
+        "release_year": 2013,
+        "studio": "Wit Studio",
+        "directors": ["Tetsurō Araki"],
+        "characters": [
+        { "name": "Eren Yeager", "role": "Main Character" },
+        { "name": "Mikasa Ackerman", "role": "Main Character" },
+        { "name": "Levi Ackerman", "role": "Supporting Character" }
+        ],
+        "rating": 9.0,
+        "cover_image": "https://example.com/images/attack_on_titan.jpg",
+        "trailer": "https://example.com/videos/attack_on_titan_trailer.mp4"
+    },
+    {
+        "id": "2",
+        "title": "One Piece",
+        "description": "Monkey D. Luffy and his pirate crew search for the ultimate treasure, One Piece.",
+        "genre": ["Action", "Adventure", "Comedy"],
+        "seasons": 20,
+        "episodes": 1000,
+        "release_year": 1999,
+        "studio": "Toei Animation",
+        "directors": ["Kōnosuke Uda", "Junji Shimizu", "Hiroaki Miyamoto"],
+        "characters": [
+        { "name": "Monkey D. Luffy", "role": "Main Character" },
+        { "name": "Roronoa Zoro", "role": "Main Character" },
+        { "name": "Nami", "role": "Main Character" }
+        ],
+        "rating": 8.7,
+        "cover_image": "https://example.com/images/one_piece.jpg",
+        "trailer": "https://example.com/videos/one_piece_trailer.mp4"
+    },
+    {
+        "id": "3",
+        "title": "Naruto",
+        "description": "Naruto Uzumaki seeks recognition as a ninja while facing various challenges.",
+        "genre": ["Action", "Adventure", "Drama"],
+        "seasons": 9,
+        "episodes": 720,
+        "release_year": 2002,
+        "studio": "Studio Pierrot",
+        "directors": ["Hayato Date"],
+        "characters": [
+        { "name": "Naruto Uzumaki", "role": "Main Character" },
+        { "name": "Sasuke Uchiha", "role": "Main Character" },
+        { "name": "Sakura Haruno", "role": "Main Character" }
+        ],
+        "rating": 8.3,
+        "cover_image": "https://example.com/images/naruto.jpg",
+        "trailer": "https://example.com/videos/naruto_trailer.mp4"
+    },
+    {
+        "id": "4",
+        "title": "Death Note",
+        "description": "A high school student finds a supernatural notebook that grants the power to kill anyone whose name is written in it.",
+        "genre": ["Mystery", "Thriller", "Supernatural"],
+        "seasons": 1,
+        "episodes": 37,
+        "release_year": 2006,
+        "studio": "Madhouse",
+        "directors": ["Tetsurō Araki"],
+        "characters": [
+        { "name": "Light Yagami", "role": "Main Character" },
+        { "name": "L", "role": "Main Character" },
+        { "name": "Ryuk", "role": "Supporting Character" }
+        ],
+        "rating": 9.1,
+        "cover_image": "https://example.com/images/death_note.jpg",
+        "trailer": "https://example.com/videos/death_note_trailer.mp4"
+    },
+    {
+        "id": "5",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "description": "Two brothers seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "seasons": 1,
+        "episodes": 64,
+        "release_year": 2009,
+        "studio": "Bones",
+        "directors": ["Yasuhiro Irie"],
+        "characters": [
+        { "name": "Edward Elric", "role": "Main Character" },
+        { "name": "Alphonse Elric", "role": "Main Character" },
+        { "name": "Roy Mustang", "role": "Supporting Character" }
+        ],
+        "rating": 9.2,
+        "cover_image": "https://example.com/images/fullmetal_alchemist_brotherhood.jpg",
+        "trailer": "https://example.com/videos/fullmetal_alchemist_brotherhood_trailer.mp4"
+    },
+    {
+        "id": "6",
+        "title": "Dragon Ball Z",
+        "description": "Goku and his friends defend Earth from various threats using their superhuman abilities.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "seasons": 9,
+        "episodes": 291,
+        "release_year": 1989,
+        "studio": "Toei Animation",
+        "directors": ["Daisuke Nishio"],
+        "characters": [
+        { "name": "Goku", "role": "Main Character" },
+        { "name": "Vegeta", "role": "Main Character" },
+        { "name": "Frieza", "role": "Antagonist" }
+        ],
+        "rating": 8.7,
+        "cover_image": "https://example.com/images/dragon_ball_z.jpg",
+        "trailer": "https://example.com/videos/dragon_ball_z_trailer.mp4"
+    },
+    {
+        "id": "7",
+        "title": "My Hero Academia",
+        "description": "In a world where most humans have superpowers, a young boy aims to become a superhero.",
+        "genre": ["Action", "Comedy", "Superhero"],
+        "seasons": 6,
+        "episodes": 114,
+        "release_year": 2016,
+        "studio": "Bones",
+        "directors": ["Kenji Nagasaki"],
+        "characters": [
+        { "name": "Izuku Midoriya", "role": "Main Character" },
+        { "name": "Katsuki Bakugo", "role": "Main Character" },
+        { "name": "All Might", "role": "Supporting Character" }
+        ],
+        "rating": 8.8,
+        "cover_image": "https://example.com/images/my_hero_academia.jpg",
+        "trailer": "https://example.com/videos/my_hero_academia_trailer.mp4"
+    },
+    {
+        "id": "8",
+        "title": "Hunter x Hunter",
+        "description": "Gon Freecss embarks on a journey to become a Hunter, a licensed professional with various specializations.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "seasons": 6,
+        "episodes": 148,
+        "release_year": 2011,
+        "studio": "Madhouse",
+        "directors": ["Hiroshi Kōjina"],
+        "characters": [
+        { "name": "Gon Freecss", "role": "Main Character" },
+        { "name": "Killua Zoldyck", "role": "Main Character" },
+        { "name": "Hisoka", "role": "Supporting Character" }
+        ],
+        "rating": 9.0,
+        "cover_image": "https://example.com/images/hunter_x_hunter.jpg",
+        "trailer": "https://example.com/videos/hunter_x_hunter_trailer.mp4"
+    },
+    {
+        "id": "9",
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "description": "Tanjiro Kamado joins the Demon Slayer Corps to seek a cure for his sister, who has become a demon.",
+        "genre": ["Action", "Supernatural", "Drama"],
+        "seasons": 1,
+        "episodes": 26,
+        "release_year": 2019,
+        "studio": "ufotable",
+        "directors": ["Haruo Sotozaki"],
+        "characters": [
+        { "name": "Tanjiro Kamado", "role": "Main Character" },
+        { "name": "Nezuko Kamado", "role": "Main Character" },
+        { "name": "Zenitsu Agatsuma", "role": "Supporting Character" }
+        ],
+        "rating": 8.8,
+        "cover_image": "https://example.com/images/demon_slayer.jpg",
+        "trailer": "https://example.com/videos/demon_slayer_trailer.mp4"
+    },
+    {
+        "id": "10",
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki becomes a Soul Reaper and protects humans from evil spirits and guiding the souls of the deceased.",
+        "genre": ["Action", "Supernatural", "Adventure"],
+        "seasons": 16,
+        "episodes": 366,
+        "release_year": 2004,
+        "studio": "Studio Pierrot",
+        "directors": ["Noriyuki Abe"],
+        "characters": [
+        { "name": "Ichigo Kurosaki", "role": "Main Character" },
+        { "name": "Rukia Kuchiki", "role": "Main Character" },
+        { "name": "Sōsuke Aizen", "role": "Antagonist" }
+        ],
+        "rating": 8.3,
+        "cover_image": "https://example.com/images/bleach.jpg",
+        "trailer": "https://example.com/videos/bleach_trailer.mp4"
+    },
+    {
+        "id": "11",
+        "title": "Sword Art Online",
+        "description": "Players get trapped in a virtual reality MMORPG and must complete the game to escape.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "seasons": 4,
+        "episodes": 97,
+        "release_year": 2012,
+        "studio": "A-1 Pictures",
+        "directors": ["Tomohiko Itō"],
+        "characters": [
+        { "name": "Kirito", "role": "Main Character" },
+        { "name": "Asuna", "role": "Main Character" },
+        { "name": "Sinon", "role": "Supporting Character" }
+        ],
+        "rating": 7.6,
+        "cover_image": "https://example.com/images/sword_art_online.jpg",
+        "trailer": "https://example.com/videos/sword_art_online_trailer.mp4"
+    },
+    {
+        "id": "12",
+        "title": "One Punch Man",
+        "description": "Saitama, a superhero who can defeat any opponent with a single punch, seeks to find a worthy opponent.",
+        "genre": ["Action", "Comedy", "Superhero"],
+        "seasons": 2,
+        "episodes": 24,
+        "release_year": 2015,
+        "studio": "Madhouse",
+        "directors": ["Shingo Natsume"],
+        "characters": [
+        { "name": "Saitama", "role": "Main Character" },
+        { "name": "Genos", "role": "Supporting Character" },
+        { "name": "Lord Boros", "role": "Antagonist" }
+        ],
+        "rating": 8.7,
+        "cover_image": "https://example.com/images/one_punch_man.jpg",
+        "trailer": "https://example.com/videos/one_punch_man_trailer.mp4"
+    },
+    {
+        "id": "13",
+        "title": "Fairy Tail",
+        "description": "Lucy Heartfilia joins the Fairy Tail Guild and embarks on adventures with Natsu Dragneel and his team.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "seasons": 9,
+        "episodes": 328,
+        "release_year": 2009,
+        "studio": "A-1 Pictures",
+        "directors": ["Shinji Ishihira"],
+        "characters": [
+        { "name": "Natsu Dragneel", "role": "Main Character" },
+        { "name": "Lucy Heartfilia", "role": "Main Character" },
+        { "name": "Erza Scarlet", "role": "Supporting Character" }
+        ],
+        "rating": 8.1,
+        "cover_image": "https://example.com/images/fairy_tail.jpg",
+        "trailer": "https://example.com/videos/fairy_tail_trailer.mp4"
+    },
+    {
+        "id": "14",
+        "title": "Tokyo Ghoul",
+        "description": "Ken Kaneki, a college student, becomes a half-ghoul and must navigate the conflicts between humans and ghouls.",
+        "genre": ["Action", "Horror", "Supernatural"],
+        "seasons": 3,
+        "episodes": 48,
+        "release_year": 2014,
+        "studio": "Studio Pierrot",
+        "directors": ["Shuhei Morita"],
+        "characters": [
+        { "name": "Ken Kaneki", "role": "Main Character" },
+        { "name": "Touka Kirishima", "role": "Main Character" },
+        { "name": "Juuzou Suzuya", "role": "Supporting Character" }
+        ],
+        "rating": 7.8,
+        "cover_image": "https://example.com/images/tokyo_ghoul.jpg",
+        "trailer": "https://example.com/videos/tokyo_ghoul_trailer.mp4"
+    },
+    {
+        "id": "15",
+        "title": "Haikyu!!",
+        "description": "Shoyo Hinata, a determined volleyball player, joins Karasuno High School's volleyball team.",
+        "genre": ["Sports", "Comedy", "Drama"],
+        "seasons": 4,
+        "episodes": 85,
+        "release_year": 2014,
+        "studio": "Production I.G",
+        "directors": ["Susumu Mitsunaka"],
+        "characters": [
+        { "name": "Shoyo Hinata", "role": "Main Character" },
+        { "name": "Tobio Kageyama", "role": "Main Character" },
+        { "name": "Kei Tsukishima", "role": "Supporting Character" }
+        ],
+        "rating": 8.7,
+        "cover_image": "https://example.com/images/haikyu.jpg",
+        "trailer": "https://example.com/videos/haikyu_trailer.mp4"
+    }
+]

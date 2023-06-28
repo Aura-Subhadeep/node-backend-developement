@@ -8,8 +8,14 @@ const server = http.createServer((req, res) => {
         res.end('Here is your profile')
     } else if (pathName === '/page') {
         res.end('Heres your page')
+    } else if (pathName === '/api'){
+        fs.readFile(`${__dirname}/dev-data/data.json`, (err, data) => {
+            const productData = JSON.parse(data)
+            res.writeHead(200, {'Content-type': 'application/json'})
+            res.end(data)
+        })
     } else {
-        res.end('The serever is serving from my pc')
+        res.end('server is running')
     }
 })
 
