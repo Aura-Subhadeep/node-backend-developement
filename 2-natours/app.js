@@ -5,17 +5,11 @@ const userRouter = require('./routes/userRoutes')
 
 const app = express()
 
-// Middleware
 app.use(express.json())
 
+app.use(express.static(`${__dirname}/public`))
 
-// Mounted Routers
 app.use('/api/v1/tours', tourRouter)
 app.use('/api/v1/users', userRouter)
 
-// Server
-
-const port = 8000
-app.listen(port, () => {
-    console.log(`The server is running on PORT ${port}`)
-})
+module.exports = app
