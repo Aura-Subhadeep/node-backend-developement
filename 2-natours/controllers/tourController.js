@@ -56,7 +56,7 @@ exports.updateTour = (req, res) => {
     })
 }
 
-exports. deleteTour = (req, res) => {
+exports.deleteTour = (req, res) => {
     if (req.params.id * 1 > tours.length) {
         return res.status(404).json({
             status: 'failed'
