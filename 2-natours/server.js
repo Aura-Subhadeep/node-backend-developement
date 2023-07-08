@@ -31,17 +31,17 @@ const tourSchema = new mongoose.Schema({
 
 const Tour = mongoose.model('Tour', tourSchema)
 
-const testTour = new Tour({
-    name: 'Avatar',
-    rating: 4.8,
-    price: 787
-})
+// const testTour = new Tour({
+//     name: 'Avatar',
+//     rating: 4.8,
+//     price: 787
+// })
 
-testTour.save().then(doc => {
-    console.log(doc)
-}).catch(err => {
-    console.log('Error')
-})
+// testTour.save().then(doc => {
+//     console.log(doc)
+// }).catch(err => {
+//     console.log('Error')
+// })
 
 const port = process.env.PORT
 app.listen(port, () => {
