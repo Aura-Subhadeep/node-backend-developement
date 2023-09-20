@@ -10,3 +10,11 @@ The `app.js` file contains a basic Express app with the following:
 - Connecting to a MongoDB database 
 - Controllers for handling user requests
 
+## MongoDB
+
+The `models/tourModel.js` file contains a MongoDB Schema definition for a "Tour" model with the following fields:
+
+- `name` 
+- `rating`
+- `price`
+
