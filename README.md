@@ -25,3 +25,14 @@ The `config.env` file contains environment variables for:
 - Database URL
 - Database password
 
+This is loaded using the `dotenv` package.
+
+## API Documentation
+
+The API has the following routes:
+
+### `/api/v1/tours`
+
+- `GET` - Get all tours 
+- `POST` - Create a new tour
+
