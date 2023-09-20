@@ -18,3 +18,10 @@ The `models/tourModel.js` file contains a MongoDB Schema definition for a "Tour"
 - `rating`
 - `price`
 
+## Environment Variables
+
+The `config.env` file contains environment variables for:
+
+- Database URL
+- Database password
+
